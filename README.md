@@ -1,1 +1,5 @@
-My Full Stack Open exercise solutions
+## My Full Stack Open exercise solutions
+
+# Completed Excercises
+0.4
+0.5
